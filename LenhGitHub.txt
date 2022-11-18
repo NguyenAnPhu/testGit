@@ -1,0 +1,8 @@
+git init
+git status
+git add . (Tất cả file trong folder) hoặc git add tenFile.txt (tên file)
+git commit -m "Ghi chú"
+git branch -M master/main/.... (Tên dự án, chọn nhánh)
+git remote add origin https://github.com/NguyenAnPhu/testGit.git (Đường dẫn github)
+git push -u origin master/main/.... (Tên dự án)
+
